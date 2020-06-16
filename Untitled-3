@@ -1,0 +1,23 @@
+<DOCTYPE HTML>
+<html>
+<html lang="pt-br">
+>
+<head>
+    <meta charset="utf-8"/>
+    <meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
+    <title>Centro Educacional Campos Mello</title>
+    </head>
+<body>
+    <header>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>Contato</li>
+            <li>Matrículas Abertas</li>
+            <button>INSCREVA-SE</button>
+            
+        </ul>
+        </nav>
+    </header>
+    </body>
+</html>
